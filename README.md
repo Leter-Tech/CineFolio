@@ -130,11 +130,6 @@ Every list you've shared lives in one place. Copy it, open it, rename it, change
 ![Thoughtful details](details_grid.jpg)
 
 
-|     |
-| --- |
-|     |
-
-
 🌙 **Dark by default.** Easy on the eyes at midnight. Light mode is one tap away.
 
 🔒 **Private notes.** *"Rewatch on a rainy Sunday."* Thoughts only you can see.
@@ -142,8 +137,6 @@ Every list you've shared lives in one place. Copy it, open it, rename it, change
 🔄 **Live sync.** Add something on your phone, see it on your laptop instantly.
 
 🔎 **Instant search & sort.** Find any title in your collection in a keystroke.
-
-
 
 ⭐ **Fresh ratings.** Bring scores up to date every 30 days.
 
@@ -230,4 +223,27 @@ Start your collection today.
   
 
 
-Ratings and details from IMDb, Rotten Tomatoes, Metacritic, MyAnimeList, AniList and TVmaze. These are trademarks of their respective owners; CineFolio is not affiliated with or endorsed by them. Poster artwork belongs to its respective owners.
+**Note:** Ratings and details from IMDb, Rotten Tomatoes, Metacritic, MyAnimeList, AniList and TVmaze. These are trademarks of their respective owners; CineFolio is not affiliated with or endorsed by them. Poster artwork belongs to its respective owners.
+
+---
+
+## 🤝 **Contributing**
+
+Contributions are always welcome! Please follow these steps:
+
+1. Fork the repository.  
+2. Create a new branch (`git checkout -b feature/your-feature`).  
+3. Commit your changes (`git commit -m 'Add your message'`).  
+4. Push to the branch (`git push origin feature/your-feature`).  
+5. Open a pull request.  
+
+---
+
+## 🛡️ License
+
+This project is shared publicly for learning and inspiration purposes only.
+
+❌ You may **NOT** copy, reuse, redistribute, or modify this code.  
+✅ You may view and learn from the code.
+
+Copyright © | All rights reserved
