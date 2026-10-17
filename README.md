@@ -1,6 +1,6 @@
 
 
-![CineFolio: Every film. Every show. Every anime.](public/promo-thumbnail.jpg)
+![CineFolio: Every film. Every show. Every anime.](thumbnail.jpg)
 
 # CineFolio
 
